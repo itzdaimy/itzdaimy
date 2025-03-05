@@ -18,10 +18,7 @@ Discord: **daimyh**
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itzdaimy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzdaimy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏃‍♂️ What I’m Up To
-- 👯 I’m looking to collaborate on my Discord bot and grow it.
-- 💬 Ask me about myself or my projects.
-- ⚡ Fun fact: I've been coding since I was 11 on Roblox!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Krex381&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
-### 👋 Thank you for visiting my profile!
-Feel free to explore my repositories and reach out if you have any questions!
+[![](https://visitcount.itsvg.in/api?id=Krex381&icon=2&color=6)](https://visitcount.itsvg.in)
