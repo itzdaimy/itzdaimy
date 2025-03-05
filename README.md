@@ -13,13 +13,10 @@ Hi there! I'm a 14-year-old coding enthusiast from the Netherlands. I love creat
 ## 🤝 My Socials
 Discord: **daimyh**
 
-## 🌌 My Discord Bot: Polaris
-Polaris is a multi-purpose bot designed to enhance your Discord server experience. It comes packed with features for moderation, entertainment, and more. 
-
-- **🏠 Website**: [Click here!](https:/beamleaks.site)
-- **🌐 Invite Polaris**: [Click here!](https://discord.gg/dS7asSYg6M)
-
----
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=itzdaimy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itzdaimy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzdaimy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏃‍♂️ What I’m Up To
 - 👯 I’m looking to collaborate on my Discord bot and grow it.
