@@ -1,5 +1,10 @@
 # 💫 About Me:
-Im currently working on:<br> - simple rat<br> - polaris the discord bot<br> - nova the fivem server<br> - other small projects
+## **Currently working on:**
+
+- **🔒 Simple RAT**: A powerful educational remote access tool designed to help understand system exploitation and protection.
+- **🤖 Polaris**: A Discord bot built to offer unique, customizable features and enhance user interaction.
+- **🌟 Nova**: A FiveM server focused on creating a fun, engaging multiplayer experience.
+- **💻 Various Small Projects**: Working on a range of exciting side projects to expand my skills and explore new technologies.
 
 
 ## 🌐 Socials:
