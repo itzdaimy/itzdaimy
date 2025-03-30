@@ -3,9 +3,8 @@
 
 - **🔒 Simple RAT**: A powerful educational remote access tool designed to help understand system exploitation and protection.
 - **🤖 Polaris**: A Discord bot built to offer unique, customizable features and enhance user interaction.
-- **🌟 Nova**: A FiveM server focused on creating a fun, engaging multiplayer experience.
+- **🚗 BeamLeaks**: A BeamNG website with loads of mods free to download. 
 - **💻 Various Small Projects**: Working on a range of exciting side projects to expand my skills and explore new technologies.
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/polarisbot) 
