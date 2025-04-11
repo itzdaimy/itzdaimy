@@ -4,12 +4,10 @@
 ### BEAMLEAKS SOON
 
 - **🔒 Simple RAT**: A powerful educational remote access tool designed to help understand system exploitation and protection.
-- **🤖 Polaris**: A Discord bot built to offer unique, customizable features and enhance user interaction.
 - **🚗 BeamLeaks**: A BeamNG website with loads of mods free to download. 
 - **💻 Various Small Projects**: Working on a range of exciting side projects to expand my skills and explore new technologies.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Polaris-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/polarisbot) 
 [![Discord](https://img.shields.io/badge/BeamLeaks-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2KrCfuhyAk) 
 
 # 💻 Tech Stack:
