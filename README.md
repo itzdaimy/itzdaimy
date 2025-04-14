@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## **Currently working on:**
 
 ### BEAMLEAKS SOON
