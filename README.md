@@ -1,8 +1,5 @@
 ## **Currently working on:**
 
-### BEAMLEAKS SOON
-
-- **🔒 Simple RAT**: A powerful educational remote access tool designed to help understand system exploitation and protection.
 - **🚗 BeamLeaks**: A BeamNG website with loads of mods free to download. 
 - **💻 Various Small Projects**: Working on a range of exciting side projects to expand my skills and explore new technologies.
 
