@@ -3,6 +3,9 @@
 - **🚗 BeamLeaks**: A BeamNG website with loads of mods free to download. 
 - **💻 Various Small Projects**: Working on a range of exciting side projects to expand my skills and explore new technologies.
 
+## 💼 Portfolio:
+https://daimy.xyz
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/BeamLeaks-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2KrCfuhyAk) 
 
