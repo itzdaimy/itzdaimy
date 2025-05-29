@@ -1,6 +1,6 @@
 ## **Currently working on:**
 
-- **🚗 BeamLeaks**: A BeamNG website with loads of mods free to download. 
+- **🤖 Vortex**: A TrySmp bot to handle gem exchanges and buy spanwers
 - **💻 Various Small Projects**: Working on a range of exciting side projects to expand my skills and explore new technologies.
 
 ## 💼 Portfolio:
