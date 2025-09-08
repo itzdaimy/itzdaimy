@@ -1,8 +1,7 @@
 ## **Currently working on:**
 
-- **🤖 TrySpawner**: A TrySmp bot to AFK your spawners 24/7
-- **🖥️ 247afk**: Afk minecraft hosting. Afk with your own account 24/7
-- **💻 Various Small Projects**: Working on a range of exciting side projects to expand my skills and explore new technologies.
+- **🤖 DaimySMP**: A DonutSMP and TrySMP inspired server
+- **🔌 Various other Plugins**: Different minecraft plugins
 
 ## 💼 Portfolio:
 https://daimy.xyz
