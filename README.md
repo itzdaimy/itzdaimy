@@ -4,7 +4,6 @@
 - **🔌 Various other Plugins**: Different minecraft plugins
 
 ## 💼 Portfolio:
-https://daimy.xyz
 https://discord.gg/daimy
 
 ## 🌐 Socials:
