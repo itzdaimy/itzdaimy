@@ -1,8 +1,6 @@
 ## 🚀 Currently Working On
 - **🌐 [BeamLeaks](https://beamleaks.com)** – **BeamNG mod hub** focusing on high quality mods only. 
 
-![Latest Mod Upload](https://img.shields.io/badge/Latest%20Mod-%20No%20Uploads%20Yet-blue?style=for-the-badge) <!-- this can be automated via API -->
-
 ## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/daimysmp)
 
