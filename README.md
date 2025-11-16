@@ -1,10 +1,6 @@
 ## **Currently working on:**
 
-- **🤖 DaimySMP**: A DonutSMP and TrySMP inspired server
-- **🔌 Various other Plugins**: Different minecraft plugins
-
-## 💼 Portfolio:
-https://discord.gg/daimy
+- **🌐 BeamLeaks**: A website sharing BeamNG mods. avalible at https://beamleaks.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/daimy-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/daimysmp) 
