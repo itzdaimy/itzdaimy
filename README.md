@@ -26,9 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzdaimy&theme=dark&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzdaimy&theme=dark&layout=compact)  
+## 📊 GitHub Stats & Activity 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=itzdaimy&theme=dark)
 ---
 
