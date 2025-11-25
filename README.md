@@ -40,13 +40,5 @@
 
 ---
 
-## 📈 Visitor Count & Stats
-[![Visitor Count](https://visitcount.itsvg.in/api?id=itzdaimy&icon=0&color=0)](https://visitcount.itsvg.in)  
+## 📈 Visitor Count
 ![Profile Views](https://komarev.com/ghpvc/?username=itzdaimy)
-
----
-
-![Last Commit](https://badges.pufler.dev/last-commit/itzdaimy/BeamLeaks)  
-![Contributions](https://badges.pufler.dev/contributions/itzdaimy)  
-![Open Issues](https://img.shields.io/github/issues/itzdaimy/BeamLeaks?color=red&style=for-the-badge)  
-![PRs Open](https://img.shields.io/github/issues-pr/itzdaimy/BeamLeaks?color=green&style=for-the-badge)  
