@@ -27,8 +27,9 @@
 ---
 
 ## 📊 GitHub Stats & Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itzdaimy&theme=react-dark&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzdaimy&theme=dark&include_all_commits=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzdaimy&theme=dark&layout=compact)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=itzdaimy&theme=dark)
 ---
 
 ## 🏆 GitHub Trophies
