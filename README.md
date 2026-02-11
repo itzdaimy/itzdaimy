@@ -1,5 +1,6 @@
 ## 🚀 Currently Working On
 - **🌐 [BeamLeaks](https://beamleaks.com)** – **BeamNG mod hub** focusing on high quality mods only. 
+- **🖥️ [247AFK](https://247afk.com)** - Minecraft account hosting service
 
 ## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/daimysmp)
