@@ -1,9 +1,8 @@
 ## 🚀 Currently Working On
-- **🌐 [BeamLeaks](https://beamleaks.com)** – **BeamNG mod hub** focusing on high quality mods only. 
-- **🖥️ [247AFK](https://247afk.com)** - Minecraft account hosting service
+- **🌐 SnapCloud** – **Screenshot -> Cloud** Automatically upload your screenshots to the cloud. 
 
 ## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/daimysmp)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/beamfinds)
 
 ## 💻 Tech Stack
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
