@@ -47,7 +47,6 @@
 |---------|-------------|-----------|
 | **[SnapCloud](#)** | Screenshot-to-cloud automation tool. | `Flutter` `Node.js` `React` |
 | **[BeamFinds](https://discord.gg/beamfinds)** | A modding hub for BeamNG enthusiasts. | `React` `Node.js` `Electron` |
-| **[247AFK](#)** | Minecraft account hosting with custom block coding. | `Node.js` `React` |
 
 ---
 
