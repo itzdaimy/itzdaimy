@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-*   🔭 I’m currently working on **BeamFinds**: A BeamNG modding website. Along with a GTA V Google-earth website
+*   🔭 I’m currently working on **BeamFinds**: A BeamNG modding website. Along with a GTA V Google-earth website, and [LastGenOnline](https://discord.gg/MWcqv3kCsd) (ps3 gtav online)
 *   💻 My primary focus is **Full-Stack Web Development**, with a heavy emphasis on **Backend** logic and performance.
 *   📫 How to reach me: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/beamfinds)
 
